@@ -1,0 +1,17 @@
+mpc add
+mpc play 1
+mpc del 1
+mpc next
+mpc prev
+
+News -  http://npr-ice.streamguys1.com/live.mp3
+Hits 100 - http://ais-sa2.cdnstream1.com/1984_128.mp3?NoPreroll=true
+Alternative Rock - http://listen.shoutcast.com/MusicalJustice
+Country - http://98.158.184.160:8000/;
+Classic Rock -  http://113fm-edge1.cdnstream.com/1720_128?NoPreroll=true
+90s - http://tunein4.streamguys1.com/90shtfree1
+2000s - http://sl-2396.cdnstream.com/1463_128?NoPreroll=true
+Blues - http://113fm-edge1.cdnstream.com/1816_128?NoPreroll=true
+Psychedelic - https://ssl.shoutcaststreaming.us:8049/stream
+Classic Country - http://113fm-edge1.cdnstream.com/1755_128?NoPreroll=true
+
